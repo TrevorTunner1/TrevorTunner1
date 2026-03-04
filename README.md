@@ -1,37 +1,4 @@
-<div align="center">
 
-
-
-### Full Stack Engineer · Java Infrastructure · Building in Public
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trevortunner21@gmail.com)
-
-</div>
-
----
-
-## `$ whoami`
-
-```java
-public class Trevor {
-
-    String[] roles = { "Full Stack Engineer", "Java Infrastructure Engineer" };
-
-    String[] currentlyBuilding = {
-        "Lamoura — Interior Design & Lighting E-commerce",
-        "Manga Review Web App — Next.js + TypeScript",
-        "My own startup"
-    };
-
-    String[] learning = { "Next.js", "TypeScript", "System Design" };
-
-    String goal = "Build products that scale and look great doing it.";
-}
-```
-
----
 
 ## `$ ls ./tech-stack`
 
